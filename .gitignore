@@ -1,0 +1,11 @@
+.cache/
+
+# Xmake cache
+.xmake/
+[Bb]in/
+[Bb]uild/
+
+# MacOS Cache
+.DS_Store
+
+
